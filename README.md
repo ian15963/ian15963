@@ -1,12 +1,5 @@
 <h2> Hello! I'm Ian Silva Santos. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
-<p align="center"> 
-  😀 New Visitors 😀
-   <br><br>
-   <img alingn="center" src="https://profile-counter.glitch.me/ian15963/count.svg"/> 
- 
-   ********************
- </p>
  
  ## My current status
   
