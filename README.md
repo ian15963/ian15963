@@ -3,7 +3,7 @@
 <p align="center"> 
   😀 New Visitors 😀
    <br><br>
-   <img alingn="center" src="https://profile-counter.glitch.me/Zakeh1480/count.svg"/> 
+   <img alingn="center" src="https://profile-counter.glitch.me/ian15963/count.svg"/> 
  
    ********************
  </p>
@@ -50,15 +50,15 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/Zakeh1480">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Zakeh1480">
+    <a href="https://github.com/ian15963">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/ian15963">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:zakehsantos@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-F82020?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zakehsantos@gmail.com">
+   <a href="mailto:iansilvasantos2001@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-F82020?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:iansilvasantos2001@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/isaque-cruz-dos-santos-040960205/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/isaque-cruz-dos-santos-040960205/">
+    <a href="https://www.linkedin.com/in/ian-silva-santos-9a6a01208/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/ian-silva-santos-9a6a01208/">
     </a>
 </p>
