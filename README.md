@@ -1,11 +1,8 @@
 <h2> Hello! I'm Ian Silva Santos. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
- 
  ## My current status
-  
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian15963&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian15963&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ian15963&theme=dracula"/>
 </div>
 
 <div align="center">
@@ -26,15 +23,15 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REDIS-%23FF4438?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RABBITMQ-%23FF6600?logo=RabbitMQ&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DOCKER-%232496ED?logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/APACHE%20KAFKA-%23231F20?logo=Apache%20Kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/MONGO%20DB-%2347A248?logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit-%2325A162?logo=JUnit5&logoColor=white">
-  <img src="https://img.shields.io/badge/PYTHON-%233776AB?logo=Python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/FLASK-%23000000?logo=Flask&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MICROSOFT%20AZURE-%23FFFF?color=%23527FFF">
+  <img src="https://img.shields.io/badge/REDIS-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RABBITMQ-%23FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/APACHE%20KAFKA-%23231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/MONGO%20DB-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit-%2325A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+  <img src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=Python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/FLASK-%23000000?style=for-the-badge&logo=Flask&logoColor=white">
+  <img src="https://img.shields.io/badge/MICROSOFT%20AZURE-%23FFFF?style=for-the-badge&color=%23527FFF">
 
 </p>
 
